@@ -44,4 +44,5 @@ Thanks to UDACITY for providing various starter codes as well as tests. Referred
 Reference:
 
 365DataScience: https://365datascience.com/tutorials/python-tutorials/pca-k-means/
+
 StackOverflow: https://stackoverflow.com/questions/52573275/get-all-items-in-a-python-list
